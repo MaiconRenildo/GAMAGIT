@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Gamagit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshots
+<div align="center" >
+<img width="300px" height="450px" src="https://user-images.githubusercontent.com/63758491/129606391-ce0a5611-f4c1-4216-b133-8cf4fef29389.PNG"/>
+</div>
+<br>
+<div align="center" >
+<img width="300px" height="450px" src="https://user-images.githubusercontent.com/63758491/129606403-b0902d4c-daa6-4413-b30f-6183cae21e39.PNG"/>
+<img width="300px" height="450px" src="https://user-images.githubusercontent.com/63758491/129606412-c8eca122-8e57-4b2a-916d-4c89021c5b2b.PNG"/>
+</div>
 
 ## Available Scripts
 
